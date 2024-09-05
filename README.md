@@ -23,5 +23,5 @@ A modern, customizable date picker component built with React, featuring a recur
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/recurring-date-picker.git
-cd recurring-date-picker
+git clone https://github.com/your-username/date-picker.git
+cd date-picker
